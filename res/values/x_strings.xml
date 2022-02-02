@@ -626,10 +626,6 @@
     <string name="notification_sound_vib_screen_on_title">Annoying Notifications</string>
     <string name="notification_sound_vib_screen_on_summary">Play sound and vibration for notifications when screen is on</string>
 
-    <!-- SmartSpace -->
-    <string name="smart_space_title">SmartSpace</string>
-    <string name="smart_space_summary">Display conditional info such as weather and events on lockscreen\nRequires a SystemUI restart</string>
-
     <!-- Custom SB n QS Logo -->
     <string name="custom_sb_logo_title">Custom Statusbar Logo</string>
     <string name="custom_sb_logo_summary">Enable custom statusbar logo from files</string>
